@@ -1,12 +1,13 @@
 parts:
 
-rasperry pi (multiple) (wifi unlikely to be needed unless built in wifi has epic range)
+case (weather proof, with provision for camera to see out)
+rasperry pi (wifi not needed as need longer range than standard)
 sd / pidrive (pidrive 250G ~£30 https://www.modmypi.com/raspberry-pi/accessories/western-digital)
 pi camera (~NZ$40 https://www.geeker.co.nz/accessories/camera/raspberry-pi-pi-noir-camera-v2-8mp-clone.html)
 noir pi camera (~NZ$40 https://www.geeker.co.nz/accessories/camera/raspberry-pi-pi-noir-camera-v2-8mp-clone.html)
 combined camera (~NZ$70 https://www.geeker.co.nz/raspberry-pi/raspberry-pi-camera-module.html)
 
-powersupply:
+powersupply: (to be researched)
 solar panel
 battery
 regulator/controller/thingy
