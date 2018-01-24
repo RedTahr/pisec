@@ -13,7 +13,7 @@ powersupply: (parts to be researched)
 
 * solar panel
 * battery
-* regulator/controller/thingy
+* regulator/controller/thingy - thepihut has some for the pi zero I think, seeed LiPo Rider Pro, https://www.seeedstudio.com/LiPo-Rider-Pro-p-992.html
 * (usb charge kits much like four AA batteries would power a pi for about half a day apparently)
 
 comms
