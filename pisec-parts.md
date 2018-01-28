@@ -2,6 +2,7 @@ parts
 =====
 
 * case (weather proof, with provision for camera to see out)
+  * 3D printable case - https://shop.openh.io/products/rubicon-weatherproof-enclosure-for-raspberry-pi-beaglebone-arduino
 * raspberry pi (wifi not needed, as will need longer range than that provided by builtin wifi)
 * sd / pidrive (pidrive 250G ~£30 https://www.modmypi.com/raspberry-pi/accessories/western-digital)
 * pi camera (~NZ$40 https://www.geeker.co.nz/accessories/camera/raspberry-pi-pi-noir-camera-v2-8mp-clone.html)
